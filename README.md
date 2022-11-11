@@ -13,6 +13,9 @@
 <p align="center"><img src="http://justclickit.ru/flash/comp/comp%20(18).gif"><img src="http://justclickit.ru/flash/comp/comp%20(93).gif"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=parovozznws&style=flat-square&color=blue" alt=""/></p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **parovozznws/parovozznws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
