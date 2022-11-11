@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
 **parovozznws/parovozznws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
