@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 
 <p align="center"><img src="http://justclickit.ru/flash/comp/comp%20(18).gif"><img src="http://justclickit.ru/flash/comp/comp%20(93).gif">
+<img src="https://komarev.com/ghpvc/?username=parovozznws&style=flat-square&color=blue" alt=""/>
 
 
 <!--
