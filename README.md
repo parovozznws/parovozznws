@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://dzen.ru/parovozz_trip" target="_blank">Андрей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🇷🇺</h3>
+<h3 align="center">from Russia 🇷🇺</h3>
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
