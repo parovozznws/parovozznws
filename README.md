@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 
-<iframe src="https://gifer.com/embed/9nA9" width=480 height=543.396 frameBorder="0" allowFullScreen></iframe><p></p>
+
 
 
 <!--
