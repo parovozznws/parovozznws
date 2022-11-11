@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 
-<img src="http://justclickit.ru/flash/comp/comp%20(18).gif">
+<p align="center"><img src="http://justclickit.ru/flash/comp/comp%20(18).gif">
 
 
 <!--
