@@ -21,7 +21,7 @@
 
 Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: Могу на Паскале, но кому сейчас нужен Паскаль?.
+- :telescope: Могу на Паскале, но кому сейчас нужен Паскаль?
 
 - :seedling: Могу на JS, но это не точно.
 
