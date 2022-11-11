@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 
-<div style="padding-top:113.208%;position:relative;"><iframe src="https://gifer.com/embed/9nA9" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<iframe src="https://gifer.com/embed/9nA9" width=480 height=543.396 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 
 
 <!--
