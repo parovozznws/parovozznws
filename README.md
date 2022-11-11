@@ -21,6 +21,12 @@
 
 Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
+- :telescope: Могу на Паскале, но кому сейчас нужен Паскаль?.
+
+- :seedling: Могу на JS, но это не точно.
+
+- :zap: Могу на Python, и могу хорошо.
+
 <!--
 **parovozznws/parovozznws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
